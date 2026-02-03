@@ -1,4 +1,9 @@
-# nextdimension
+# nextdimension - sacred geometry generator
+-----------------------------------
+UPDATE Feb 2026 - this code is very old, check out my latest version of this project (web app version)
+https://sacred-web.vercel.app
+-----------------------------------
+
 
 to run this code:
 have java installed
