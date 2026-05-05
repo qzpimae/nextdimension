@@ -11,3 +11,6 @@ download processing (https://processing.org/download)
 open file with processing program
 run animaiton with "play" button
 while animation is running press the M key to show interactive controls
+
+you can also check out the 2023 version here: 
+[2023 Sacred Geometry Generator](https://github.com/qzpimae/Animations/tree/main/archive/22-23/sacredgeo)
